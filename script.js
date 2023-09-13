@@ -3,7 +3,7 @@
 //Problem
 
 /*
-Create a function that takes an array of numbers and returns "Boom!".If the digit contains 7 in
+Create a function that takes an array of numbers, and returns "Boom!".If the digit contains 7 in
 the array,display "Boom!", otherwise return "there is no 7 in the array".
 
 sample input: SevenBoom([1,2,3,4,5,6,7]); //Boom!
